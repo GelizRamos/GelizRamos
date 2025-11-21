@@ -1,16 +1,16 @@
-## Hi there 👋
+## Education
+- Bachelor of Science in Computer Science
+   - New Era University (2024 - Present)
 
-<!--
-**GelizRamos/GelizRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certificates
+- [SQL and Relational Databases 101](link-ng-certificate) – Cognitive Class
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Java, SQL, HTML  
+- **Web & Database Platforms:** Supabase, IBM Db2 Cloud
+- **Design & Visualization Tools:** Canva, Figma, Lucidchart  
+- **Development Tools:** Visual Studio Code
+  
+## Contact
+- Email: ramosgeliz06@gmail.com  
+- LinkedIn: [Your LinkedIn Profile](link)  
