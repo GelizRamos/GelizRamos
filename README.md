@@ -1,6 +1,6 @@
 # Hello, I'm Geliz Ramos!
 ----------------------------------------------------------
-My interest in programming and web development continues to grow, with a current focus on exploring databases to level up my skills. Enjoy creating designs and visualizations to present ideas effectively. Always eager to learn and take on new challenges, while exploring opportunities for growth.
+My interest in programming and web development continues to grow, with a current focus on exploring databases to level up my skills. Enjoy creating designs and visualizations to present ideas effectively. I am always eager to learn and take on new challenges, while exploring opportunities for growth.
 
 Let's connect!
 
