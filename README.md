@@ -11,6 +11,7 @@ Let's connect!
 -----------------------------------------------------------
 ## Certificates
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/983a1b530d3f44fe8948c7cd04507620)
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D897B04C1A7C2648858CD198203207668568022A4C8D3F67957A6BE42D94AB9F)
 -----------------------------------------------------------
 ## Skills
 - **Programming Languages:** Java, SQL, HTML  
